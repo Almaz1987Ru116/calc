@@ -93,6 +93,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         String example = in.nextLine();
         System.out.println(calc(example));
+        
 //        System.out.println(calc("I - II"));
     }
 }
